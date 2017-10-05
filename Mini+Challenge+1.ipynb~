@@ -26,7 +26,7 @@
    ],
    "source": [
     "from PIL import Image\n",
-    "image_file = "/Mini_Challenge_1-master/data/minichallenge_1.jpg\"\n",
+    "image_file = \"/home/xilinx/jupyter_notebooks/common/data/minichallenge_1.jpg\"\n",
     "img = Image.open(image_file)\n",
     "img"
    ]
